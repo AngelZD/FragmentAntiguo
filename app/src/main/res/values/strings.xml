@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmentAntiguo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="buttonUno_Text">Opción 1</string>
+    <string name="buttonDos_Text">Opción 2</string>
+    <string name="buttonTres_Text">Opción 3</string>
+    <string name="buttonCuatro_Text">Opción 4</string>
+
+</resources>
